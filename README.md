@@ -1,41 +1,82 @@
-# Hi 👋, I'm Akash
-### Web Developer| Html | Css | Javascript | ReactJS | NodeJs | ExpressJs | MongGoDB | NextJs | React Native Expo | TailwindCss | Postman.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Akash+Mathur;Full+Stack+Web+Developer;ReactJs+%7C+NextJss+%7C+React+Native;Building+Modern+Web+%26+Mobile+Apps" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 💻 **Full Stack Web & Mobile Developer**
+- ⚡ Skilled in **React, Next.js, React Native (Expo)**
+- 🧠 Backend with **Node.js, Express.js, MongoDB**
+- 🎨 UI with **Tailwind CSS & Framer Motion**
+- 🌱 Always learning and building real-world projects
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,expo,git,github,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Movie App
+**Tech:** React Native, Expo, API  
+- Browse movies with real-time data  
+- Clean UI & smooth navigation  
+
+---
+
+### 💬 Real-Time Chat App
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+- Real-time messaging  
+- Authentication & responsive UI  
+
+---
+
+### 🌐 Portfolio Website
+**Tech:** React.js, EmailJS, Framer Motion  
+- Modern animations  
+- Contact form with email integration  
+
+🔗 **Live:** https://akashmathurdev.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Attech15&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Always+Learning+New+Tech" />
-</p>
-
-### 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,expo,git,github" />
-</p>
-
-### 🚀 Featured Projects
-
-- 🎬 **Movie App** – React Native + Expo + API  
-- 🧠 **Real time Chat App** – Reactjs, Nodejs, Expressjs, Mongodb
-- 🔐 **Portfolio** – Reactjs, Emailjs, Framer motion
-
-- [Live Demo](https://akashmathurdev.netlify.app/) | [Repo](https://github.com/Attech15/ChatApp)
-
-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Attech15&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attech15&theme=tokyonight" />
 </p>
 
+---
 
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/akash-mathur-a126b323b">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://akashmathurdev.netlify.app">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+  <a href="mailto:akashmathur.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
+---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/akash-mathur-a126b323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🐦 Portfolio: https://akashmathurdev.netlify.app/
-- 📧 Email: akashmathur.dev@gmail.com
+⭐ *If you like my work, consider starring my repositories!*
+
 
 
 
